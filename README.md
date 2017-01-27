@@ -1,5 +1,5 @@
-# DispatchTimerIssueTest
-The following is bugging me and I have no real answer on this
+# Swift3 - DispatchTimerIssueTest
+The following is bugging me and I have no real answer on this.
 
 If I record two timestamps with
 
